@@ -5,7 +5,7 @@ A mock adapter for Redux Toolkit Query that allows you to simulate API responses
 
 ## Installation
 
-```bash
+```
 npm install redux-toolkit-mock-adapter
 ```
 
@@ -65,4 +65,4 @@ const MyComponent = () => {
 };
 ```
 
-This code is llm-generated, please create issue if you enocounter any issues.
+This code is llm-generated, please create an issue if you enocounter any issues.
