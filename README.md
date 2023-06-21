@@ -1,5 +1,3 @@
-Sure, here's a draft for a README file for your npm package:
-
 ```markdown
 # Redux Toolkit Mock Adapter
 
