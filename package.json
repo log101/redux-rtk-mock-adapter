@@ -1,0 +1,19 @@
+{
+  "name": "redux-rtk-mock-adapter",
+  "version": "0.1.0",
+  "description": "Mock adapter for Redux RTK",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redux",
+    "redux-rtk",
+    "mock"
+  ],
+  "author": "Furkan ERDEM",
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5"
+  }
+}
