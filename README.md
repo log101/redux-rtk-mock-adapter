@@ -1,4 +1,3 @@
-```markdown
 # Redux Toolkit Mock Adapter
 
 A mock adapter for Redux Toolkit Query that allows you to simulate API responses for testing purposes.
